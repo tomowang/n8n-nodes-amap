@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-base.AMap",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Miscellaneous"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://lbs.amap.com/api/webservice/create-project-and-key"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://lbs.amap.com/api/webservice/summary"
+			}
+		]
+	}
+}
