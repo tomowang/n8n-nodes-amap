@@ -6,8 +6,12 @@ A custom n8n node for [Amap (高德地图)](https://amap.com/).
 
 Features:
 
-[x] Weather API
+- [x] Weather API
 
 ## License
 
 [MIT](https://github.com/tomowang/n8n-nodes-amap/blob/main/LICENSE.md)
+
+> AMap logos and name are the property of their respective owners.
+> This repository uses them solely for non-commercial demonstration purposes.
+> In case of infringement, please contact for prompt removal.
