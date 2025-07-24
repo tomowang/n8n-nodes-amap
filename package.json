@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-amap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "n8n custom nodes for Amap",
   "keywords": [
     "n8n-community-node-package"
@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "@typescript-eslint/parser": "~8.38.0",
-    "eslint": "^9.31.0",
+    "eslint": "^8.57.0",
     "eslint-plugin-n8n-nodes-base": "^1.16.3",
     "gulp": "^5.0.1",
     "prettier": "^3.6.2",
