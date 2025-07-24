@@ -4,6 +4,9 @@
 
 A custom n8n node for [Amap (高德地图)](https://amap.com/).
 
+This is a custom node to demonstrate how to create a custom node for n8n. The
+original course can be found [here](https://datawhalechina.github.io/handy-n8n/#/c05/?id=%e8%87%aa%e5%ae%9a%e4%b9%89%e8%8a%82%e7%82%b9%e5%bc%80%e5%8f%91).
+
 Features:
 
 - [x] Weather API
